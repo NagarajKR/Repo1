@@ -20,6 +20,9 @@ public class forloop {
             	}
 
         		System.out.println("hi ");
+        		
+        		System.out.println("ok");
+        		System.out.println("entered");
             }
             
 	
