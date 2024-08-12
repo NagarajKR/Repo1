@@ -20,7 +20,8 @@ public class forloop {
             	}
 
         		System.out.println("hi ");
-        		
+        		System.out.println("country=india");
+        		System.out.println("salary is 2000");
         		System.out.println("ok");
         		System.out.println("entered");
             }
