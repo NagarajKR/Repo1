@@ -7,7 +7,7 @@ public class cartpage {
 		
 		
 		System.out.println("login");
-		
+		System.out.println("REview comments updated");
 		System.out.println("cart page added successfully");
 		System.out.println("added succssefully");
 		System.out.println("Logout successfully");
